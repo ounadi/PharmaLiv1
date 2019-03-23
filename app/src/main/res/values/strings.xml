@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PharmaLiv</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="plus_proche_pharmacie">Plus proche pharmacie</string>
+    <string name="categories_medicaments">Categories medicaments</string>
+    <string name="todo">TODO</string>
+    <string name="pharmacie">pharmacie</string>
+    <string name="scanner_ordonnance">scanner ordonnance</string>
+    <string name="mes_commandes">mes commandes</string>
+    <string name="communicate">Communicate</string>
+    <string name="mon_adresse">mon adresse</string>
+    <string name="mon_portefeuille">mon portefeuille</string>
+    <string name="partager">partager</string>
+    <string name="deconnecter">deconnecter</string>
+    <string name="nom">nom</string>
+    <string name="categorie_medicament">Categories Medicaments</string>
+    <string name="douleurs">douleurs</string>
+    <string name="sant">santé</string>
+    <string name="fitness">fitness</string>
+    <string name="hygiene">hygiéne</string>
+    <string name="detox">détox</string>
+    <string name="sante">sante</string>
+    <string name="santé">santé</string>
+    <string name="string_sant" />
+</resources>

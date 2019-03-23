@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/panier"
+            android:icon="@drawable/shopping_icon"
+            android:title="@string/mes_commandes" />
+        <item
+            android:id="@+id/adresse"
+            android:icon="@drawable/gps_icon"
+            android:title="@string/mon_adresse" />
+        <item
+            android:id="@+id/portefeuille"
+            android:icon="@drawable/portefeuille_icon"
+            android:title="@string/mon_portefeuille" />
+    </group>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/partager" />
+            <item
+                android:id="@+id/deconnecter"
+                android:icon="@drawable/deconnecter_icon"
+                android:title="@string/deconnecter" />
+        </menu>
+    </item>
+
+</menu>
